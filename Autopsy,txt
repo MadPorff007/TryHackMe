@@ -6,7 +6,6 @@ What is the file extension of the Autopsy files?
 ANSWER: .aut
 
 Import the "Sample Case.aut" file (located on the Desktop) as shown in the task and continue to the next task.
-ANSWER:
 OPEN Autopsy
 OPEN Sample Case.aut in Autopsy
 
@@ -18,8 +17,28 @@ Task 4 - Ingest Modules
 COMPLETE TASK
 
 Task 5 - The User Interface I 
+Expand the "Data Sources" option; what is the number of available sources?
+ANSWER: 4
+
+What is the number of the detected "Removed" files?
+CAN BE FOUND AS THE NUMBER NEXT TO RECYCLE BIN
+ANSWER: 10
+
+What is the filename found under the "Interesting Files" section?
+ANSWER: googledrivesync.exe
 
 Task 6 - The User Interface II 
+What is the full name of the operating system version?
+ANSWER: Windows 7 Ultimate Service Pack
+
+What percentage of the drive are documents? Include the % in your answer.
+ANSWER: 40.8%
+
+Generate an HTML report as shown in the task and view the "Case Summary" section.
+What is the job number of the "Interesting Files Identifier" module?
+TOOLS - GENERATE REPORT
+TO FIND IT - Tags - Reports scroll to the bottom, right click - OPEN
+ANSWER: 
 
 Task 7 - Data Analysis 
 
