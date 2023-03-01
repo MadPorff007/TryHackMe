@@ -60,19 +60,25 @@ Keyword Search: SECRET, second response on table(secret_project)
 ANSWER: 10.11.11.128
 
 What web search term has the most entries?
-ANSWER:
+ANSWER: information leakage cases
 
 What was the web search conducted on 3/25/2015 21:46:44?
-ANSWER:
+ANSWER: anti-forensic tools
 
 What MD5 hash value of the binary is listed as an Interesting File?
-ANSWER:
+ANSWER: fe18b02e890f7a789c576be8abccdc99
 
 What self-assuring message did the 'Informant' write for himself on a Sticky Note? (no spaces)
-ANSWER:
+ANSWER: Tomorrow...Everything will be OK...
 
 -------------------------------------------------------------------------------------------------------------------------------------
 Task 8 - Visualisation Tools 
+
+Using the Timeline, how many results were there on 2015-01-12?
+ANSWER: 46
+
+The majority of file events occurred on what date? (MONTH DD, YYYY)
+ANSWER: March 25, 2015
 
 -------------------------------------------------------------------------------------------------------------------------------------
 Task 9 - Conclusion
