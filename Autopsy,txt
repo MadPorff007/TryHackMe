@@ -1,1 +1,29 @@
+Task 1 - Introduction
+START VM
+
+Task 2 - Workflow Overview and Case Analysis 
+What is the file extension of the Autopsy files?
+ANSWER: .aut
+
+Import the "Sample Case.aut" file (located on the Desktop) as shown in the task and continue to the next task.
+ANSWER:
+OPEN Autopsy
+OPEN Sample Case.aut in Autopsy
+
+Task 3 - Data Sources 
+What is the disk image name of the "e01" format?
+ANSWER: encase
+
+Task 4 - Ingest Modules
+COMPLETE TASK
+
+Task 5 - The User Interface I 
+
+Task 6 - The User Interface II 
+
+Task 7 - Data Analysis 
+
+Task 8 - Visualisation Tools 
+
+Task 9 - Conclusion
 
