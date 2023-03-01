@@ -1,6 +1,8 @@
 Task 1 - Introduction
 START VM
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 Task 2 - Workflow Overview and Case Analysis 
 
 What is the file extension of the Autopsy files?
@@ -9,15 +11,21 @@ ANSWER: .aut
 Import the "Sample Case.aut" file (located on the Desktop) as shown in the task and continue to the next task.
 OPEN Autopsy
 OPEN Sample Case.aut in Autopsy
+
 -------------------------------------------------------------------------------------------------------------------------------------
+
 Task 3 - Data Sources 
 
 What is the disk image name of the "e01" format?
 ANSWER: encase
+
 -------------------------------------------------------------------------------------------------------------------------------------
+
 Task 4 - Ingest Modules
 COMPLETE TASK
+
 -------------------------------------------------------------------------------------------------------------------------------------
+
 Task 5 - The User Interface I 
 
 Expand the "Data Sources" option; what is the number of available sources?
@@ -29,7 +37,9 @@ ANSWER: 10
 
 What is the filename found under the "Interesting Files" section?
 ANSWER: googledrivesync.exe
+
 -------------------------------------------------------------------------------------------------------------------------------------
+
 Task 6 - The User Interface II 
 
 What is the full name of the operating system version?
@@ -45,7 +55,9 @@ TOOLS - GENERATE REPORT
 TO FIND IT - Tags - Reports scroll to the bottom, right click - OPEN
 
 ANSWER: 10
+
 -------------------------------------------------------------------------------------------------------------------------------------
+
 Task 7 - Data Analysis 
 What is the name of an Installed Program with the version number of 6.2.0.2962?
 Keyword Search: search the version number, its the top response(Eraser.exe)
@@ -72,6 +84,7 @@ What self-assuring message did the 'Informant' write for himself on a Sticky Not
 ANSWER: Tomorrow...Everything will be OK...
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
 Task 8 - Visualisation Tools 
 
 Using the Timeline, how many results were there on 2015-01-12?
@@ -81,6 +94,9 @@ The majority of file events occurred on what date? (MONTH DD, YYYY)
 ANSWER: March 25, 2015
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
 Task 9 - Conclusion
 SWITCH TO NEXT TOPIC OF CHOICE
+
 -------------------------------------------------------------------------------------------------------------------------------------
+!!END!!
