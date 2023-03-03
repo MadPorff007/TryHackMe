@@ -5,9 +5,23 @@ READ
 
 Task 2 - Hash Values (Trivial) 
 
+Provide the ransomware name for the hash '63625702e63e333f235b5025078cea1545f29b1ad42b1e46031911321779b6be' using open-source lookup tools
+USING - https://metadefender.opswat.com/ OR https://metadefender.opswat.com/results/file/63625702e63e333f235b5025078cea1545f29b1ad42b1e46031911321779b6be/hash/overview
+ANSWER: Conti
+
 ---------------------------------------------------------------------------------------------------------------
 
 Task 3 - IP Address (Easy) 
+
+What is the ASN for the third IP address observed?
+HOW TO:
+USE - https://app.any.run/tasks/a66178de-7596-4a05-945d-704dbf6b3b90/
+CLICK ON - [1632] some_malicious_file.bin.exe 
+THEN CLICK - More information
+THEN CLICK - connections (in left panel, under events)
+THEN CLICK - RAW (top right panel)
+THEN - search Host Europe in the ASN search bar
+ANSWER: Host Europe GmbH 
 
 ---------------------------------------------------------------------------------------------------------------
 
