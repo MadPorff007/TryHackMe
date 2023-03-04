@@ -23,9 +23,25 @@ THEN CLICK - RAW (top right panel)
 THEN - search Host Europe in the ASN search bar
 ANSWER: Host Europe GmbH 
 
+What is the domain name associated with the first IP address observed?
+ANSWER: craftingalegacy.com
+
 ---------------------------------------------------------------------------------------------------------------
 
 Task 4 - Domain Names (Simple) 
+
+
+Go to this report on app.any.run and provide the first malicious URL request you are seeing, you will be using this report to answer the remaining questions of this task.
+ANSWER: craftingalegacy.com
+
+What term refers to an address used to access websites?
+ANSWER: Domain Name
+
+What type of attack uses Unicode characters in the domain name to imitate the a known domain?
+ANSWER: Punycode attack
+
+Provide the redirected website for the shortened URL using a preview: https://tinyurl.com/bw7t8p4u
+ANSWER: https://tryhackme.com/
 
 ---------------------------------------------------------------------------------------------------------------
 
