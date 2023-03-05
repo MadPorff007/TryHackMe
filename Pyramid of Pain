@@ -1,0 +1,96 @@
+Task 1 - Introduction
+READ
+
+---------------------------------------------------------------------------------------------------------------
+
+Task 2 - Hash Values (Trivial) 
+
+Provide the ransomware name for the hash '63625702e63e333f235b5025078cea1545f29b1ad42b1e46031911321779b6be' using open-source lookup tools
+USING - https://metadefender.opswat.com/ OR https://metadefender.opswat.com/results/file/63625702e63e333f235b5025078cea1545f29b1ad42b1e46031911321779b6be/hash/overview
+ANSWER: Conti
+
+---------------------------------------------------------------------------------------------------------------
+
+Task 3 - IP Address (Easy) 
+
+What is the ASN for the third IP address observed?
+HOW TO:
+USE - https://app.any.run/tasks/a66178de-7596-4a05-945d-704dbf6b3b90/
+CLICK ON - [1632] some_malicious_file.bin.exe 
+THEN CLICK - More information
+THEN CLICK - connections (in left panel, under events)
+THEN CLICK - RAW (top right panel)
+THEN - search Host Europe in the ASN search bar
+ANSWER: Host Europe GmbH 
+
+What is the domain name associated with the first IP address observed?
+ANSWER: craftingalegacy.com
+
+---------------------------------------------------------------------------------------------------------------
+
+Task 4 - Domain Names (Simple) 
+
+
+Go to this report on app.any.run and provide the first malicious URL request you are seeing, you will be using this report to answer the remaining questions of this task.
+ANSWER: craftingalegacy.com
+
+What term refers to an address used to access websites?
+ANSWER: Domain Name
+
+What type of attack uses Unicode characters in the domain name to imitate the a known domain?
+ANSWER: Punycode attack
+
+Provide the redirected website for the shortened URL using a preview: https://tinyurl.com/bw7t8p4u
+ANSWER: https://tryhackme.com/
+
+---------------------------------------------------------------------------------------------------------------
+
+Task 5 - Host Artifacts (Annoying) 
+
+What is the suspicious IP the victim machine tried to connect to in the screenshot above?
+ANSWER:
+
+Use the tools introduced in task 2 and provide the name of the malware associated with the IP address
+ANSWER:
+
+Using your OSINT skills, what is the name of the malicious document associated with the dropped binary?
+ANSWER:
+
+Use your OSINT skills and provide the name of the malicious document associated with the dropped binary
+ANSWER:
+
+---------------------------------------------------------------------------------------------------------------
+
+Task 6 - Network Artifacts (Annoying) 
+
+What browser uses the User-Agent string shown in the screenshot above? 
+ANSWER: Fuzzy Hashing
+
+How many POST requests are in the screenshot from the pcap file?
+ANSWER: 6
+
+---------------------------------------------------------------------------------------------------------------
+
+Task 7 - Tools (Challenging) 
+
+Provide the method used to determine similarity between the files
+ANSWER:
+
+Provide the alternative name for fuzzy hashes without the abbreviation 
+ANSWER:
+
+---------------------------------------------------------------------------------------------------------------
+
+Task 8 - TTPs (Tough) 
+
+Navigate to ATT&CK Matrix webpage. How many techniques fall under the Exfiltration category? 
+ANSWER: 9
+---------------------------------------------------------------------------------------------------------------
+
+Task 9 - Practical: The Pyramid of Pain 
+
+---------------------------------------------------------------------------------------------------------------
+
+Task 10 - Conclusion
+READ
+---------------------------------------------------------------------------------------------------------------
