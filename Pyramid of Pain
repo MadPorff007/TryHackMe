@@ -63,9 +63,21 @@ ANSWER:
 
 Task 6 - Network Artifacts (Annoying) 
 
+What browser uses the User-Agent string shown in the screenshot above? 
+ANSWER: Fuzzy Hashing
+
+How many POST requests are in the screenshot from the pcap file?
+ANSWER: 6
+
 ---------------------------------------------------------------------------------------------------------------
 
 Task 7 - Tools (Challenging) 
+
+Provide the method used to determine similarity between the files
+ANSWER:
+
+Provide the alternative name for fuzzy hashes without the abbreviation 
+ANSWER:
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -78,5 +90,5 @@ Task 9 - Practical: The Pyramid of Pain
 ---------------------------------------------------------------------------------------------------------------
 
 Task 10 - Conclusion
-
+READ
 ---------------------------------------------------------------------------------------------------------------
