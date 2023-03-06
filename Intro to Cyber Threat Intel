@@ -1,1 +1,93 @@
+Task 1 - Room Outline 
+READ
 
+-------------------------------------------------------------------------------------------------------------
+
+Task 2 -Threat Intelligence 
+READ
+
+-------------------------------------------------------------------------------------------------------------
+
+Task 3 - UrlScan.io 
+https://urlscan.io/
+
+What is TryHackMe's Cisco Umbrella Rank?
+ANSWER: 345612
+
+How many domains did UrlScan.io identify?
+ANSWER: 13
+
+What is the main domain registrar listed?
+ANSWER: NAMECHEAP INC
+
+What is the main IP address identified?
+ANSWER: 2606:4700:10::ac43:1b0a
+
+-------------------------------------------------------------------------------------------------------------
+
+TASK 4 - Abuse.ch 
+
+https://threatfox.abuse.ch/
+The IOC 212.192.246.30:5555 is linked to which malware on ThreatFox?
+LINK - https://threatfox.abuse.ch/browse.php?search=ioc%3A212.192.246.30%3A5555
+ANSWER: Katana
+
+https://sslbl.abuse.ch/
+Which malware is associated with the JA3 Fingerprint 51c64c77e60f3980eea90869b68c58a8 on SSL Blacklist?
+LINK - https://sslbl.abuse.ch/ja3-fingerprints/
+SEARCH - Hash Value
+ANSWER: Dridex
+
+https://urlhaus.abuse.ch/
+From the statistics page on URLHaus, what malware-hosting network has the ASN number AS14061? 
+LINK - https://urlhaus.abuse.ch/statistics/
+ANSWER: DIGITALOCEAN-ASN
+
+https://feodotracker.abuse.ch/
+From the statistics page on URLHaus, what malware-hosting network has the ASN number AS14061? 
+LINK - https://feodotracker.abuse.ch/browse.php?search=178.134.47.166
+ANSWER: Georgia
+
+-------------------------------------------------------------------------------------------------------------
+
+TASK 5 - PhishTool 
+
+What organisation is the attacker trying to pose as in the email?
+ANSWER:
+
+What is the senders email address?
+ANSWER:
+
+What is the recipient's email address?
+ANSWER:
+
+What is the Originating IP address? Defang the IP address.
+ANSWER:
+
+How many hops did the email go through to get to the recipient?
+ANSWER:
+
+-------------------------------------------------------------------------------------------------------------
+
+TASK 6 - Cisco Talos Intelligence 
+
+What is the listed domain of the IP address from the previous task? 
+ANSWER:
+
+What is the customer name of the IP address?
+ANSWER:
+
+-------------------------------------------------------------------------------------------------------------
+
+TASK 7 - Scenario 1 
+
+-------------------------------------------------------------------------------------------------------------
+
+TASK 8 - Scenario 2 
+
+-------------------------------------------------------------------------------------------------------------
+
+TASK 9 - Conclusion
+READ
+
+-------------------------------------------------------------------------------------------------------------
