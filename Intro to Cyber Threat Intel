@@ -52,9 +52,30 @@ ANSWER: Georgia
 
 TASK 5 - PhishTool 
 
+What organisation is the attacker trying to pose as in the email?
+ANSWER:
+
+What is the senders email address?
+ANSWER:
+
+What is the recipient's email address?
+ANSWER:
+
+What is the Originating IP address? Defang the IP address.
+ANSWER:
+
+How many hops did the email go through to get to the recipient?
+ANSWER:
+
 -------------------------------------------------------------------------------------------------------------
 
 TASK 6 - Cisco Talos Intelligence 
+
+What is the listed domain of the IP address from the previous task? 
+ANSWER:
+
+What is the customer name of the IP address?
+ANSWER:
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -67,5 +88,6 @@ TASK 8 - Scenario 2
 -------------------------------------------------------------------------------------------------------------
 
 TASK 9 - Conclusion
+READ
 
 -------------------------------------------------------------------------------------------------------------
